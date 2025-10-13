@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pkgoo\\source\\repos\\프로젝트 1\\프로젝트 1\\프로젝트 1.csproj": {}
+    "C:\\Users\\pkgoo\\Desktop\\test\\-1\\프로젝트 1\\프로젝트 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pkgoo\\source\\repos\\프로젝트 1\\프로젝트 1\\프로젝트 1.csproj": {
+    "C:\\Users\\pkgoo\\Desktop\\test\\-1\\프로젝트 1\\프로젝트 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pkgoo\\source\\repos\\프로젝트 1\\프로젝트 1\\프로젝트 1.csproj",
+        "projectUniqueName": "C:\\Users\\pkgoo\\Desktop\\test\\-1\\프로젝트 1\\프로젝트 1.csproj",
         "projectName": "프로젝트 1",
-        "projectPath": "C:\\Users\\pkgoo\\source\\repos\\프로젝트 1\\프로젝트 1\\프로젝트 1.csproj",
+        "projectPath": "C:\\Users\\pkgoo\\Desktop\\test\\-1\\프로젝트 1\\프로젝트 1.csproj",
         "packagesPath": "C:\\Users\\pkgoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pkgoo\\source\\repos\\프로젝트 1\\프로젝트 1\\obj\\",
+        "outputPath": "C:\\Users\\pkgoo\\Desktop\\test\\-1\\프로젝트 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pkgoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
